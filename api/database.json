@@ -37,6 +37,52 @@
             "id": 4,
             "familyMemberId": 2,
             "choreId": 3
+        },
+        {
+            "id": 4,
+            "familyMemberId": 3,
+            "choreId": 1
+        },
+        {
+            "id": 4,
+            "familyMemberId": 6,
+            "choreId": 3
+        },
+        {
+            "id": 4,
+            "familyMemberId": 5,
+            "choreId": 2
+        },
+        {
+            "id": 4,
+            "familyMemberId": 5,
+            "choreId": 1
+        },
+        {
+            "id": 4,
+            "familyMemberId": 3,
+            "choreId": 5
+        },
+        {
+            "id": 4,
+            "familyMemberId": 4,
+            "choreId": 5
+        },
+        {
+            "id": 4,
+            "familyMemberId": 5,
+            "choreId": 6
+        },
+        {
+            "id": 4,
+            "familyMemberId": 6,
+            "choreId": 5
+        },
+        {
+            "id": 4,
+            "familyMemberId": 4,
+            "choreId": 2
         }
+        
     ]
 }

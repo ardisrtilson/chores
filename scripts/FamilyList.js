@@ -1,4 +1,4 @@
-import { useChores } from "./styles/ChoreProvider.js"
+import { useChores } from "./ChoreProvider.js"
 import { useFamilyMembers } from "./FamilyProvider.js"
 import { useFamilyChores } from "./FamilyChoreProvider.js"
 import {FamilyMember} from "./FamilyMember.js"
